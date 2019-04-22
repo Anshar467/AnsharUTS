@@ -30,7 +30,7 @@
 			<tr>
 				<td><b>Pekerjaan</b></td>
 				<td><b> :</b></td>
-				<td> Pelajar </td>
+				<td> Programmer </td>
 			</tr>
 			</tbody>
 		</table>
