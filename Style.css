@@ -1,0 +1,153 @@
+body{
+	background: rgb(238, 238, 238);
+	font-family: : calibri;
+	font-size: 18pt;
+	margin-top: 30px;
+}
+#kotak{
+	width: 520px;
+	height: 350px;
+	background: white;
+	margin: 150px auto 100px auto;
+	color: teal;
+}
+#atas{
+	height: 35px;
+	width: 520px;
+	font-family: Quicksand;
+	text-align: center;
+	font-size: 15pt;
+	padding-top: 20px;
+}
+#bawah{
+	height: 200px;
+	width: 520px;
+	padding-top: 10px;
+}
+.masuk{
+	width: 400px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	font-size: 12pt;
+	border: 1px solid #2ecc71;
+	padding-left: 10px;
+	color: #2ecc71;
+}
+.masuk : focus{
+	width: 400px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	font-size: 12pt;
+	padding-left10px;
+	color: #1abc9c;
+	outline: none;
+	box-shadow: 0 0 5px #2ecc71;
+}
+#tombol{
+	width: 412px;
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 60px;
+	background: teal	;
+	list-style: none;
+	border: none;
+	color: #fff;
+	outline: none;
+}
+.text-alert{
+	color: red;
+	text-align: center;
+	padding-top: -10px;
+	font-size: 11pt;
+}
+/*coding formindex*/
+.body-beranda {
+	margin: 0;
+	padding: 0 0 1em 0; ?/*1em = 16px*/
+	font-size: 1em;
+	line-height: 1.5em;
+	color: #teal;
+	font-family: sans-serif;
+
+	background-color: #teal;
+}
+
+#logo{
+	text-align: center;
+	padding: 1em 0; /*1em = top,bottom. 0=left,right*/
+}
+#logo img {
+	vertical-align: middle;
+}
+#logo a {
+	text-decoration: none;
+	color: #414142;
+	position: relative;
+}
+#logo span{
+	vertical-align: middle;
+	font-size: 2em;
+	font-family: 'Bree Serif', serif;
+	margin-left: .2em; /*.2em = 0.2em  0.2*16px = 1px*/
+}
+#container {
+	margin: 0 0 1em 0;
+	background-color: white;
+}
+h1.content
+{
+	margin: 1.5em 1.5em 1em;
+}
+.content {
+	max-width: 700px;
+	margin: 1em auto;
+	text-align: center;
+}
+h1{
+	margin: 1.5em 0;
+	font-weight: normal;
+	text-align: center;
+}
+h1, h2 {
+	font-family:'Bree Serif' ,serif;
+	font-weight: normal;
+}
+.nav {
+	margin:  0 auto;
+	background-color: black;
+}
+.main {
+	margin: 0 auto;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	padding: 8px;
+	color: #000;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #555;
+	color: white;
+}
+ul li:hover ul{
+	display: block;
+}
+}
+
+.clear {
+	clear: both;
+}
+.button{
+	height: 40px;
+	width: 40px;
+}
